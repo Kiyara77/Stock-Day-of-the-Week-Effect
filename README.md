@@ -40,7 +40,7 @@ This project analyzes daily price data to visualize and explore whether such pat
 
 ## ▶️ How to Run
 
-1. Place your data file at the specified path or update the file path in the script.
+1. Place the data file at the specified path or update the file path in the script.
 2. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib seaborn openpyxl
