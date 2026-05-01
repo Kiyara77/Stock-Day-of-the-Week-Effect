@@ -34,8 +34,6 @@ This project analyzes daily price data to visualize and explore whether such pat
 
 ## 📈 Key Output
 
-![Boxplot of Daily Returns by Weekday](./figures/weekday_effect_boxplot.png) *(example placeholder)*
-
 - Shows distribution (median, IQR, outliers) of returns across weekdays
 - Horizontal dashed line at return = 0 for reference
 - Compares market index (SSE) vs. individual stock (SPDB)
