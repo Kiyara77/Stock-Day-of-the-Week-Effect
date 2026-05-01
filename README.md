@@ -9,7 +9,7 @@ This project analyzes daily price data to visualize and explore whether such pat
 
 ## 📊 Data Source
 
-- Excel file: `D://24108108洪琪.xlsx` (Sheet: `Sheet1`)
+- Excel file: `D://24108108Hong.xlsx` (Sheet: `Sheet1`)
 - Columns used:
   - `Date`: Trading date (formatted as MM/DD/YY)
   - `上证指数`: Shanghai Composite Index closing price
