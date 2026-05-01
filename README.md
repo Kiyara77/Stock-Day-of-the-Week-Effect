@@ -26,7 +26,6 @@ This project analyzes daily price data to visualize and explore whether such pat
 
 2. **Feature Engineering**
    - Compute daily simple returns:  
-     $$ r_t = \frac{P_t - P_{t-1}}{P_{t-1}} $$
    - Assign weekday numbers: Monday = 1, ..., Friday = 5
 
 3. **Visualization**
